@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class input {
+public class Meter_converter {
     public static void main(String[] args) {
 
         try (Scanner sc = new Scanner(System.in)) {
@@ -15,3 +15,4 @@ public class input {
         }
     }
 }
+
